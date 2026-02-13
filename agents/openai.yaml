@@ -1,0 +1,4 @@
+interface:
+  display_name: "SciSpace High-Quality Search"
+  short_description: "Manual-login SciSpace search with auto journal-slug filters"
+  default_prompt: "Use $scispace-playwright-search to run High Quality SciSpace search, auto-apply journal-slugs.json journals, and export JSON with title/authors/journal/publication_date/summarized_abstract/paper_link/doi_url."
