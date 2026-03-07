@@ -1,0 +1,10 @@
+{
+  "name": "scispace",
+  "description": "Use Playwright MCP to automate SciSpace Literature Review searches after authentication. Trigger when the user asks to search SciSpace, export results, apply journal filters, or use journal-slugs.json as default journals.",
+  "author": {
+    "name": "guanyuhoujeff",
+    "url": "https://github.com/guanyuhoujeff/scispace-playwright-search-skills"
+  },
+  "repository": "https://github.com/guanyuhoujeff/scispace-playwright-search-skills",
+  "license": "MIT"
+}

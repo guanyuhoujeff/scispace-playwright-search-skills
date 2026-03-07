@@ -1,0 +1,15 @@
+{
+  "name": "scispace-local",
+  "owner": {
+    "name": "guanyuhoujeff",
+    "url": "https://github.com/guanyuhoujeff"
+  },
+  "plugins": [
+    {
+      "name": "scispace",
+      "source": "./",
+      "description": "Use Playwright MCP to automate SciSpace Literature Review searches after authentication.",
+      "version": "1.0.0"
+    }
+  ]
+}
